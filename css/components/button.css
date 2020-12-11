@@ -1,0 +1,45 @@
+ .bnt-red {
+ 	background-color: #bf0603;
+ 	padding: 10px 15px;
+ 	border-radius: 4px; 
+ 	color:#001427;
+ 	font-weight: bold; 
+ }
+ .bnt-red:hover {
+ 	background-color: #708d81;
+ 	color: #8d0801;
+ }
+.bnt-left {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 100px;
+    margin-bottom: -90px;
+}
+
+
+.bnt-white {
+	padding: 5px 10px;
+ 	border-radius: 4px; 
+ 	color:#001427;
+ 	font-weight: bold; 
+    border: solid;
+}
+
+ .bnt-white:hover {
+ 	color: #708d81;
+ }
+
+ .bnt-center {
+ 	display: flex;
+	justify-content: center;
+	margin-top: -70px;
+    margin-bottom: -90px;
+ }
+
+
+.bnt-green {
+	font-size: 15px;
+}
+.bnt-green:hover {
+	color: #708d81;
+}
